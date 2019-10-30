@@ -1,0 +1,22 @@
+1.- En el primer ejercicio simplemente opte por recorrer la cadena ingresada  de forma invertida, una vez que obtenia el tamaño de dicha  cadena.
+
+contiene poca complejidad ya que observe las funciones ativas del lenguaje.
+
+2.- La verdad no entendi bien que es lo que pedia, pero si era para obtener el número mayor dentro del arreglo, solo era hacer una comparación de los items para obtener al mayor.
+
+3.- En este punto si utilise la funcon propia del array junto con la expresión lambda para hacer uns simple comparación que devolviera os datos.
+
+La complejidad es baja, ya que son funciones existentes, las cuales solo hay que aprender a utilizar.
+
+4.- Solo verifique que los numeros ingresados no sean negativos para realizar la operación X, se ser asi les envié un mensaje.
+
+no tiene maor complejidad.
+
+
+5.- En este punto era realizar 2 clases(Empleados, Dia) para realizar el llenado de los objetos de cada uno,ligarlos por Id y asi
+ tener la colección de empleados y días para mostrar a usuarios
+
+
+
+De antemano les envio una disculpa, si me interesa su empresa, pero estoy bastante desvelado y cansado, espero no causar molestias por no terminan estos sencillos ejercicios.
+
